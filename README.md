@@ -1,5 +1,5 @@
 # recommendation-project
-full web app
+----------------------full web app------------------
 Hi,
 This recommendation model was constucted to help people choose movies and avoid movies they might not like.this is a full stack Django web project with both admin access and user access seperately.
 the requirements for the web app are :
